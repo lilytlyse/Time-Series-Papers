@@ -31,8 +31,13 @@ Key advantages:
 ## Model
 
 Goal is to model the conditional distribution
+
 ![img](01.png)
+
+![img](03.png)
 
 ![img](02.png)
 
-![img](03.png)
+From the picture we can know, in training, 
+
+$$\(\sqrt{3x-1}+(1+x)^2\)$$
