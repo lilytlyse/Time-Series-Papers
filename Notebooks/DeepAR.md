@@ -40,6 +40,4 @@ Goal is to model the conditional distribution
 
 ![img](02.png)
 
-From the picture we can know, in training, $z_{i,t_{0}-1}$ and $x$is used to 
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
+From the picture we can know, in training, $z_{i,t-1}$ and $x_{i,t}$is used to compute $h_{i}$
