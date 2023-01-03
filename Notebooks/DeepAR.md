@@ -1,4 +1,4 @@
-![MathJax-script](<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>)
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 # DeepAR
 
@@ -40,6 +40,6 @@ Goal is to model the conditional distribution
 
 ![img](02.png)
 
-From the picture we can know, in training, 
+From the picture we can know, in training, $\z_{i,t_{0}-1}$ and $\x$is used to 
 
 $$\(\sqrt{3x-1}+(1+x)^2\)$$
